@@ -2,4 +2,84 @@ body {
     font-family: "Roboto", "Raleway", sans-serif;
     color: #434455;
     background-color: #fff;
+    line-height: 1.5;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.logo-webstudio {
+    font-family: "Raleway", sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 18px;
+    color: #2E2F42;
+    line-height: 1.17;
+    text-decoration: none;
+}
+
+.web-name {
+    color: #4D5AE5;
+}
+
+.navigation {
+    font-weight: 500;
+    font-size: 16px;
+    color: #2E2F42;
+}
+
+.navigation .link {
+    color: #2E2F42;
+}
+
+.navigation .link:hover {
+    color: #404BBF;
+}
+
+.address {
+    color: #434455;
+    font-size: 16px;
+}
+
+.address .link {
+    color: #434455;
+}
+
+.address .link:hover {
+    color: #404BBF;
+}
+
+.order {
+    background-color: #2E2F42;
+}
+
+.order h1 {
+    color: #fff;
+    text-align: center;
+    font-weight: 700;
+    font-size: 56px;
+}
+
+.order .batton {
+    background-color: #4D5AE5;
+    color: #fff;
+}
+
+.order .batton:hover {
+    background-color: #404BBF;
+}
+
+.features h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+}
+
+.features p {
+    font-size: 16px;
 }
