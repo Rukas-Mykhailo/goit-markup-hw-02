@@ -37,11 +37,16 @@ a {
 
 .navigation .link {
     color: #2E2F42;
+    letter-spacing: 0.02em;
 }
 
 .navigation .link:hover,
 .navigation .link:focus {
     color: #404BBF;
+}
+
+.address {
+    font-style: normal
 }
 
 .address .link {
@@ -88,6 +93,10 @@ a {
     letter-spacing: 0.02em;
 }
 
+.features p {
+    letter-spacing: 0.02em;
+}
+
 .team {
     background-color: #F4F4FD;
 }
@@ -112,6 +121,7 @@ a {
 
 .team p {
     text-align: center;
+    letter-spacing: 0.02em;
 }
 
 .team li {
@@ -135,6 +145,10 @@ a {
     letter-spacing: 0.02em;
 }
 
+.portfolio p {
+    letter-spacing: 0.02em;
+}
+
 .footer {
     background-color: #2E2F42;
     color: #f4f4fd;
@@ -142,4 +156,8 @@ a {
 
 .footer .logo-webstudio {
     color: #f4f4fd;
+}
+
+.footer p {
+    letter-spacing: 0.02em;
 }
