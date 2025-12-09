@@ -64,9 +64,10 @@ a {
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
+    letter-spacing: 0.02em;
 }
 
-.order .batton {
+.order .button {
     background-color: #4D5AE5;
     color: #fff;
     cursor: pointer;
@@ -74,8 +75,8 @@ a {
     letter-spacing: 0.04em;
 }
 
-.order .batton:hover,
-.order .batton:focus {
+.order .button:hover,
+.order .button:focus {
     background-color: #404BBF;
 }
 
@@ -84,6 +85,7 @@ a {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
+    letter-spacing: 0.02em;
 }
 
 .team {
@@ -96,6 +98,7 @@ a {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
+    letter-spacing: 0.02em;
 }
 
 .team h3 {
@@ -104,6 +107,7 @@ a {
     font-size: 20px;
     line-height: 1.2;
     text-align: center;
+    letter-spacing: 0.02em;
 }
 
 .team p {
@@ -120,6 +124,7 @@ a {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
+    letter-spacing: 0.02em;
 }
 
 .portfolio h3 {
@@ -127,6 +132,7 @@ a {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
+    letter-spacing: 0.02em;
 }
 
 .footer {
